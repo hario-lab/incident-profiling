@@ -114,6 +114,9 @@ Once published, please cite as:
 Daiji HARIO, "[Title]", [Journal], [Volume], [Year], pp. [XX–XX].
 ```
 
+**Code repository:** https://github.com/hario-lab/incident-profiling  
+**Code DOI:** https://doi.org/10.5281/zenodo.19478411
+
 ---
 
 ## License
