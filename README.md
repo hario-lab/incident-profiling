@@ -1,12 +1,5 @@
 # Incident Profiling for Ransomware Actor Attribution
 
-**Ransomware Attribution through Incident Profiling: A TTP-Based Approach for CSIRT Decision Support**
-
-> *Submitted to [Journal Name], [Year]*
-> *Author: Daiji HARIO, Ph.D., [Affiliation]*
-
----
-
 ## Methodology
 
 *Incident Profiling* is an analytical framework originally proposed by Daiji HARIO, Ph.D. (2026) for ransomware actor attribution.
